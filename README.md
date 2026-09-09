@@ -26,3 +26,6 @@ Client    Windows 10            User workstation
 Step 1 - Verify Existing Environment
 The Windows Server 2019 and Windows 10 virtual machines were started and verified before deploying the ticketing system.
 The Windows 10 machine is joined to the Active Directory domain. Network connectivity was tested using the ping command.
+
+Step 2 - Install IIS
+Internet Information Systems was installed on Windows Server 2019 to provide the web server required by osTicket.
