@@ -29,3 +29,6 @@ The Windows 10 machine is joined to the Active Directory domain. Network connect
 
 Step 2 - Install IIS
 Internet Information Systems was installed on Windows Server 2019 to provide the web server required by osTicket.
+
+Step 3 - Verify IIS
+After installation, IIS was tested opening a web browser on Windows Server 2019 and navigating to http://localhost.
