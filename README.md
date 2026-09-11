@@ -32,3 +32,5 @@ Internet Information Systems was installed on Windows Server 2019 to provide the
 
 Step 3 - Verify IIS
 After installation, IIS was tested opening a web browser on Windows Server 2019 and navigating to http://localhost.
+<img width="756" height="570" alt="Screenshot 2026-09-08 130446" src="https://github.com/user-attachments/assets/5a520fa2-93c4-4eff-9dda-2736249cb07e" />
+
