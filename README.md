@@ -34,3 +34,7 @@ Step 3 - Verify IIS
 After installation, IIS was tested opening a web browser on Windows Server 2019 and navigating to http://localhost.
 <img width="756" height="570" alt="Screenshot 2026-09-08 130446" src="https://github.com/user-attachments/assets/5a520fa2-93c4-4eff-9dda-2736249cb07e" />
 
+Step 4 - Install PHP
+PHP was installed and configured for use with IIS. It allows the web server to execute the PHP code used by osTicket.The 
+installation was configured through IIS using FastCGI.
+
