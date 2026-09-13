@@ -38,3 +38,6 @@ Step 4 - Install PHP
 PHP was installed and configured for use with IIS. It allows the web server to execute the PHP code used by osTicket.The 
 installation was configured through IIS using FastCGI.
 
+Step 5 - Install MySQL
+A MySQL database server was installed on Windows Server 2019. A dedicated database was created for osTicket.
+
