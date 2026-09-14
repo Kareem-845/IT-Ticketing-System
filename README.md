@@ -41,3 +41,6 @@ installation was configured through IIS using FastCGI.
 Step 5 - Install MySQL
 A MySQL database server was installed on Windows Server 2019. A dedicated database was created for osTicket.
 
+Step 6 - Download osTicket
+The osTicket installation package was downloaded from the official site. The installation files were extracted and prepared for deployment through IIS. The files were placed under C:\inetpub\wwwroot\osTicket. This allows IIS to serve the application through the web browser.
+
