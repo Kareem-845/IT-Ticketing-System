@@ -44,3 +44,7 @@ A MySQL database server was installed on Windows Server 2019. A dedicated databa
 Step 6 - Download osTicket
 The osTicket installation package was downloaded from the official site. The installation files were extracted and prepared for deployment through IIS. The files were placed under C:\inetpub\wwwroot\osTicket. This allows IIS to serve the application through the web browser.
 
+Step 7 - Configure osTicket
+The osTicket configuration file was prepared and the required permissions were configured. The osTicket web installer was then accessed through http://localhost/osTicket. The installer checked the server environment for the required PHP extensions and system components.
+
+
