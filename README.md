@@ -47,4 +47,7 @@ The osTicket installation package was downloaded from the official site. The ins
 Step 7 - Configure osTicket
 The osTicket configuration file was prepared and the required permissions were configured. The osTicket web installer was then accessed through http://localhost/osTicket. The installer checked the server environment for the required PHP extensions and system components.
 
+Step 8 - Configure the osTicket installation
+The osTicket installation wizard was completed. The help desk was configured with the name IT Help Desk. An administrative account was also created for managing the help desk. The database connection information was entered into the osTicket installation wizard.
+
 
