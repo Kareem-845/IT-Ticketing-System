@@ -50,4 +50,17 @@ The osTicket configuration file was prepared and the required permissions were c
 Step 8 - Configure the osTicket installation
 The osTicket installation wizard was completed. The help desk was configured with the name IT Help Desk. An administrative account was also created for managing the help desk. The database connection information was entered into the osTicket installation wizard.
 
+Step 8 - Access the osTicket Staff Panel
+The osTicket staff panel was accessed after installation. 
+
+The staff panel provides technicians access to:
+View tickets
+Assign tickets
+Change ticket priority
+Add internal notes
+Communicate with users
+Track ticket activity
+Resolve tickets
+
+
 
