@@ -62,5 +62,9 @@ Communicate with users
 Track ticket activity
 Resolve tickets
 
+Step 9 - Configure the IT Support Department
+
+An IT Support department was created within osTicket. This department represents the technical support team responsible for handling user incidents. Additional departments were created, such as Hardware and Network Support. The primary department used for this lab was IT Support.
+
 
 
