@@ -66,5 +66,9 @@ Step 9 - Configure the IT Support Department
 
 An IT Support department was created within osTicket. This department represents the technical support team responsible for handling user incidents. Additional departments were created, such as Hardware and Network Support. The primary department used for this lab was IT Support.
 
+Step 10 - Create an IT Support Technician
+
+An IT support technician account was created in osTicket. The technician was assigned to the IT Support department to simulate a service desk employee.
+
 
 
