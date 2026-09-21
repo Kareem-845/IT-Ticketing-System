@@ -70,5 +70,7 @@ Step 10 - Create an IT Support Technician
 
 An IT support technician account was created in osTicket. The technician was assigned to the IT Support department to simulate a service desk employee.
 
+Step 11 - Create a test user
+The existing Active Directory environment was used to simulate an employee. A domain user was created in Active Directory for this lab utilizing the Windows 10 workstation.
 
 
