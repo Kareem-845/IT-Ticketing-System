@@ -73,4 +73,8 @@ An IT support technician account was created in osTicket. The technician was ass
 Step 11 - Create a test user
 The existing Active Directory environment was used to simulate an employee. A domain user was created in Active Directory for this lab utilizing the Windows 10 workstation.
 
+Step 12 - Submit an IT Ticket
+
+The Windows 10 client was used to access the osTicket web interface.
+
 
