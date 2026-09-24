@@ -79,4 +79,7 @@ Step 12 - Submit an IT Ticket
 
 The Windows 10 client was used to access the osTicket web interface.
 
+Step 13 - Review the Ticket
+
+An IT Technician logged in to the osTicket staff panel and reviewed the ticket submitted.
 
