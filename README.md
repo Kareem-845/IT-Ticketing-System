@@ -83,3 +83,7 @@ Step 13 - Review the Ticket
 
 An IT Technician logged in to the osTicket staff panel and reviewed the ticket submitted.
 
+Step 14 - Assign and Prioritize the ticket
+
+The ticket was assigned to the IT Support department. The priority was changed based on simulated impact.
+
