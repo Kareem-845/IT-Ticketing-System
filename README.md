@@ -87,3 +87,15 @@ Step 14 - Assign and Prioritize the ticket
 
 The ticket was assigned to the IT Support department. The priority was changed based on simulated impact.
 
+Step 15 - Troubleshoot the Incident
+
+The Windows 10 workstation was used to perform troubleshooting.
+The technician verified that:
+
+The workstation has a valid IP
+The Workstation can communicate with the server
+The user was authenticated against the domain
+The network share permissions were reviewed
+The appropriate user permissions were corrected
+
+
