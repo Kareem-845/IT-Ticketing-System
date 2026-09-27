@@ -98,4 +98,16 @@ The user was authenticated against the domain
 The network share permissions were reviewed
 The appropriate user permissions were corrected
 
+Step 16 - Document troubleshooting
+
+An internal note was added to the ticket to document the troubleshooting process.
+
+Troubleshooting performed:
+1. Verified network connectivity
+2. Confirmed client would communicate with the server
+3. Confirmed user account was active
+4. Checked network share permissions
+5. Corrected user permissions
+6. Tested access to the network share
+
 
