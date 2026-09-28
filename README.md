@@ -110,4 +110,7 @@ Troubleshooting performed:
 5. Corrected user permissions
 6. Tested access to the network share
 
+Step 17 - Resolve the Incident
+After correcting the simulated permissions issues, the user was able to access the network share.
+
 
