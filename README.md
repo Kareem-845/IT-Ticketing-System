@@ -113,4 +113,5 @@ Troubleshooting performed:
 Step 17 - Resolve the Incident
 After correcting the simulated permissions issues, the user was able to access the network share.
 
-
+5. Results
+The lab successfully demonstrated the deployment and operation of an IT helpdesk ticketing system.
